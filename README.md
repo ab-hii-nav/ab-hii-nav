@@ -26,5 +26,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
 <img src="https://img.shields.io/badge/Verilog-8fce00?" alt="Verilog">  <img src="https://img.shields.io/badge/System_Verilog-8a6309?" alt="System Verilog">
-  <img src="https://img.shields.io/badge/AWS-black?logo=amazon+aws" alt="AWS">  <img src="https://img.shields.io/static/v1?label=&message=C+Language&color=white&logo=c" alt="C Language">  <img src="https://img.shields.io/badge/GCP-black?logo=google+cloud" alt="GCP">  <img src="https://img.shields.io/badge/mysql-white?logo=mysql" alt="mysql">  <img src="https://img.shields.io/badge/Git-white?logo=git" alt="Git">  <img src="https://img.shields.io/badge/python-lightblue?logo=python" alt="python">
+  <img src="https://img.shields.io/badge/AWS-black?logo=amazon+aws" alt="AWS">  <img src="https://img.shields.io/static/v1?label=&message=C+Language&color=white&logo=c" alt="C Language"> <img src="https://img.shields.io/badge/mysql-white?logo=mysql" alt="mysql">  <img src="https://img.shields.io/badge/Git-white?logo=git" alt="Git">  <img src="https://img.shields.io/badge/python-lightblue?logo=python" alt="python">
 </p>
